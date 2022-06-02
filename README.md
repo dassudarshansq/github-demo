@@ -1,2 +1,2 @@
 # github-demo
-This repo will use for git hub demo traing
+This repo will use for git hub demo training
